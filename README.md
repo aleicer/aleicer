@@ -1,4 +1,4 @@
-=====================   www.aleicervesgadev.com.co  ========================
+=====================   www.aleicer-vesga-dev.me  ========================
 - 👋 Hola mi nombre Aleicer Vegsa
 - 👀 Me interesa aprender las diferentes tecnologias que tenemos en cuando a la parte web, soy desarrollador backend principalemente con nodejs y nestjs, pero he podido   aprender tecnologias como react para crear aplicaciones web.   
 - 🌱 cuento experiencia laboral en javascript/typescript, maquetacion con Html y Css, framework como react, angular, nestjs, loopback y node 
