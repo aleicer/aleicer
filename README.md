@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ ¿Desarrollo  ideas, apasionado por el rendimiento, cuéntame lo que necesitas?<br>📚 Actualmente estudiante de ingeniería de software, pero con 3 años de experiencia como desarrollador fullstack<br>🎯 Como virtudes, me desataca el profesionalismo, el entusiasmo por aprender, compañerita y siempre estoy dispuesto.<br>🎲 Me gustan mucho las series, películas y los videojuegos, leo y en mis ratos libres la música que es otra de mis pasiones.</p>
+<p align="left">✨ ¿Desarrollo  ideas, apasionado por el rendimiento, cuéntame lo que necesitas?<br>📚 Actualmente estudiante de ingeniería de software, pero con 3 años de experiencia como desarrollador fullstack<br>🎯 Como virtudes, me desataca el profesionalismo, el entusiasmo por aprender, compañerista y siempre estoy dispuesto.<br>🎲 Me gustan mucho las series, películas y los videojuegos, leo y en mis ratos libres la música que es otra de mis pasiones.</p>
 
 ###
 
