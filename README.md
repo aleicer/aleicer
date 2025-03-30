@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Aleicer Vesga
 
 <p align="center">
-  <img src="URL_DE_UN_BANNER_OPCIONAL" alt="Banner de Aleicer Vesga" width="800"/>
+  <img src="https://drive.google.com/uc?id=1pBeqYJH7IfJw0wxQmJrQXGYto5F7qjkK" alt="Banner de Aleicer Vesga" width="800"/>
 </p>
 
 <p align="left">
