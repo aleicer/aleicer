@@ -1,9 +1,5 @@
 # 👋 ¡Hola! Soy Aleicer Vesga
 
-<p align="center">
-  <img src="https://drive.google.com/uc?id=1pBeqYJH7IfJw0wxQmJrQXGYto5F7qjkK" alt="Banner de Aleicer Vesga" width="800"/>
-</p>
-
 <p align="left">
   Soy un <strong>Desarrollador Full-Stack</strong> colombiano, actualmente estudiante de <strong>Ingeniería de Software</strong>, con <strong>3 años de experiencia</strong> creando soluciones web eficientes y escalables. Me apasiona transformar ideas en software funcional y optimizar el rendimiento de las aplicaciones.
 </p>
@@ -80,6 +76,10 @@
   </a>&nbsp;
   <a href="https://wa.me/573214946645" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1pBeqYJH7IfJw0wxQmJrQXGYto5F7qjkK" alt="Banner de Aleicer Vesga" width="800"/>
 </p>
 
 ---
