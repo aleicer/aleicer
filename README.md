@@ -5,17 +5,20 @@
 </p>
 
 <p align="left">
-  Soy un <strong>Desarrollador Full-Stack</strong> colombiano 🇨🇴, actualmente estudiante de <strong>Ingeniería de Software</strong>, con <strong>3 años de experiencia</strong> creando soluciones web eficientes y escalables. Me apasiona transformar ideas en software funcional y optimizar el rendimiento de las aplicaciones.
+  Soy un <strong>Desarrollador Full-Stack</strong> colombiano, actualmente estudiante de <strong>Ingeniería de Software</strong>, con <strong>3 años de experiencia</strong> creando soluciones web eficientes y escalables. Me apasiona transformar ideas en software funcional y optimizar el rendimiento de las aplicaciones.
 </p>
 
 ---
 
 ## 🚀 Sobre Mí
 
-* 💡 Me especializo en el desarrollo de aplicaciones web completas, desde el frontend hasta el backend.
-* 📚 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades. ¡El aprendizaje continuo es clave!
-* 🎯 Me considero un profesional dedicado, colaborativo y proactivo, siempre dispuesto a enfrentar nuevos desafíos técnicos.
-* 🎲 Fuera del código, disfruto de las series, películas, videojuegos y la música.
+* 💡 Más que un programador, me considero un **Desarrollador de Software** integral. Tengo la capacidad de tomar requerimientos y convertirlos en soluciones funcionales, participando activamente desde la **concepción y arquitectura** hasta la **implementación, pruebas y despliegue**.
+* 💻 Cuento con experiencia comprobada tanto en **Desarrollo Backend** como **Frontend**, y he expandido mis habilidades al **Desarrollo Móvil nativo con Android (Java/Kotlin)**.
+* 🏗️ Poseo un fuerte enfoque en la creación y mejora de **arquitecturas de software**, buscando siempre la **escalabilidad, mantenibilidad** y eficiencia. ¡Me encanta optimizar!
+* ☁️ Experiencia práctica en el despliegue de aplicaciones en la nube utilizando **AWS** y en la gestión de entornos con **Docker**.
+* 🔧 Entusiasta del aprendizaje continuo, siempre explorando nuevas tecnologías y metodologías para mejorar mis desarrollos.
+* 🤝 Soy un profesional **colaborativo, proactivo** y comprometido con la calidad y los objetivos del equipo.
+* 🎲 En mi tiempo libre, la tecnología sigue presente, pero también disfruto de las series, películas, videojuegos y la música.
 
 ---
 
@@ -41,7 +44,7 @@
 <p align="left">
   <strong>Backend:</strong>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs logo" />&nbsp;
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="30" alt="nestjs logo" />&nbsp;
   </p>
 
 <p align="left">
@@ -59,58 +62,24 @@
 
 ---
 
-## ✨ Proyectos Destacados
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="[Link a tu Proyecto 1]" target="_blank">Nombre del Proyecto 1</a></h3>
-      <p>Breve descripción de tu proyecto. ¿Qué problema resuelve? ¿Qué hace?</p>
-      <p><strong>Tecnologías:</strong> React, Node.js, MongoDB, etc.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="[Link a tu Proyecto 2]" target="_blank">Nombre del Proyecto 2</a></h3>
-      <p>Breve descripción de tu proyecto. ¿Qué problema resuelve? ¿Qué hace?</p>
-      <p><strong>Tecnologías:</strong> Next.js, NestJS, TypeScript, PostgreSQL, Docker, etc.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="[Link a tu Proyecto 3]" target="_blank">Nombre del Proyecto 3</a></h3>
-      <p>Breve descripción de tu proyecto. ¿Qué problema resuelve? ¿Qué hace?</p>
-      <p><strong>Tecnologías:</strong> Java, Spring Boot, MySQL, etc. (Ajusta según tus proyectos)</p>
-    </td>
-    <td width="50%" valign="top">
-       </td>
-  </tr>
-</table>
-
-*Puedes ver más de mis proyectos en mis repositorios.*
-
----
-
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&langs_count=8&theme=radical"/>
-  </p>
-
----
-
 ## 📫 Contacto
 
 <p align="left">
-  ¡Conectemos! Siempre estoy abierto a discutir nuevos proyectos, ideas o simplemente charlar sobre tecnología.
+  ¡Siempre estoy abierto a conectar! Si tienes alguna pregunta, propuesta interesante o simplemente quieres charlar sobre tecnología y desarrollo, aquí te dejo mis datos:
 </p>
 
 <p align="left">
   <a href="mailto:aleicer.vesga@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>&nbsp;
-  <a href="[TU_LINK_DE_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/aleicer-vesga-rueda-072b70210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
-  </p>
+  <a href="https://aleicer-vesga-portafolio.netlify.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portafolio-8A2BE2?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portafolio"/>
+  </a>&nbsp;
+  <a href="https://wa.me/573214946645" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>&nbsp;
+</p>
 
 ---
