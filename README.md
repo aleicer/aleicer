@@ -41,6 +41,9 @@
   <strong>Backend:</strong>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />&nbsp;
   <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="30" alt="nestjs logo" />&nbsp;
+  <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" height="30" alt="nestjs logo" />&nbsp;
+  <img src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Java.component.complex-narrative-xl.ts=1692900329414.png/content/adobe-cms/es/es/products/instana/supported-technologies/java-monitoring/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" height="30" alt="Java logo" />&nbsp;
+  <img src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/Spring.png" height="30" alt="nestjs logo" />&nbsp;
   </p>
 
 <p align="left">
